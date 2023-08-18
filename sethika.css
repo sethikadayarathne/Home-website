@@ -1,0 +1,59 @@
+@charset "utf-8";
+.container .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: -webkit-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(19,19,19,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(19,19,19,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(19,19,19,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(0,0,0,1.00) 0%,rgba(19,19,19,1.00) 100%);
+}
+.container .container footer {
+    color: #FFFFFF;
+}
+
+.container {
+    background-image: -webkit-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(248,248,248,1.00) 46.11%,rgba(255,255,255,1.00) 48.18%,rgba(29,29,29,1.00) 85.49%,rgba(0,0,0,1.00) 91.19%);
+    background-image: -moz-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(248,248,248,1.00) 46.11%,rgba(255,255,255,1.00) 48.18%,rgba(29,29,29,1.00) 85.49%,rgba(0,0,0,1.00) 91.19%);
+    background-image: -o-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(248,248,248,1.00) 46.11%,rgba(255,255,255,1.00) 48.18%,rgba(29,29,29,1.00) 85.49%,rgba(0,0,0,1.00) 91.19%);
+    background-image: linear-gradient(180deg,rgba(0,0,0,1.00) 0%,rgba(248,248,248,1.00) 46.11%,rgba(255,255,255,1.00) 48.18%,rgba(29,29,29,1.00) 85.49%,rgba(0,0,0,1.00) 91.19%);
+}
+
+.navbar-nav.mr-auto .nav-item.active .nav-link {
+    text-shadow: 0px 0px #BED000;
+    color: #CEC600;
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: #D9C400;
+}
+.card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+    color: #FFF500;
+    background-color: #000000;
+}
+#accordion1 .card #headingOne1 {
+    color: #F0FF00;
+    background-color: #000000;
+}
+#headingOne1 .mb-0 a {
+    color: #E8FF00;
+}
+#accordion1 .card #headingTwo1 {
+    color: #000000;
+    background-color: #000000;
+}
+#headingTwo1 .mb-0 .collapsed {
+    color: #F0FF00;
+}
+#headingThree1 .mb-0 .collapsed {
+    color: #F0FF00;
+}
+#accordion1 .card #headingThree1 {
+    color: #000000;
+    background-color: #000000;
+}
+.container .navbar.navbar-expand-lg.navbar-light.bg-light .navbar-toggler {
+    background-color: #666666;
+}
+.container .container #form1 {
+    color: #FFFFFF;
+}
+.container .container #form2 {
+    color: #FFFFFF;
+}
